@@ -1,0 +1,43 @@
+<html>
+    <head>   </head>
+        <body>
+            <center> <h1>
+                students data 
+            </h1></center>
+        
+
+            <table = border="">
+                <th>
+                    name 
+                </th>
+                <th> marks </th>
+                <th> percentage </th>           
+            
+            
+                <tr> 
+                    <td> manoj </td>
+                    <td> 530 </td>
+                    <td> 76% </td>
+
+                </tr>
+
+                <tr> 
+                    <td> balaji </td>
+                    <td> 520 </td>
+                    <td> 74% </td>
+
+                </tr>
+                <tr>
+                    <td> rakesh </td>
+                    <td> 510 </td>
+                    <td> 72% </td>
+                </tr>
+                
+            </table>
+            
+                
+            
+            </td>
+        </body>
+ 
+</html>
